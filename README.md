@@ -1,0 +1,1 @@
+# Help-Desk Help Desk é um sistema de autenticação por sessão parar ter acesso a páginas restritas da aplicação e assim o usuário poderá abrir chamados e consultar os chamados abertos, o usuário poderá ter acesso apenas aos próprios chamados. Os arquivos e scripts que contenham informação sigilosas são protegidos.
